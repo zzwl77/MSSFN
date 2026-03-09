@@ -61,11 +61,17 @@ Files as listed in the repository.
 If this code helps your research, please cite the associated manuscript (fill in your final details):
 
 ```bibtex
-@article{MSSFN2025,
-  title   = {MSSFN: Multi-stimulus Stereo Spatiotemporal Fusion Network with Pattern Disentanglement for Alzheimer's Disease Diagnosis},
-  author  = {…},
-  journal = {…},
-  year    = {2025}
+@article{ZHANG2026104718,
+title = {MSSFN: Multi-stimulus stereo spatiotemporal fusion network with pattern disentanglement for Alzheimer’s disease diagnosis},
+journal = {Information Processing & Management},
+volume = {63},
+number = {6},
+pages = {104718},
+year = {2026},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2026.104718},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457326001093},
+author = {Wenlin Zhang and Peiguang Jing and Xin Li and Yong Ji and Yu Liu and Sun-Yuan Kung}
 }
 ```
 
