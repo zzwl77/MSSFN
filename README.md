@@ -1,6 +1,7 @@
 # MSSFN: Multi-stimulus Stereo Spatiotemporal Fusion Network
 
 Reference implementation of **MSSFN** for eye-movement–based Alzheimer’s disease (AD) classification. The repository includes model code, training/evaluation scripts, and simple visualization utilities. 
+
 doi: doi.org/10.1016/j.ipm.2026.104718
 
 ## Quick Start
@@ -59,7 +60,7 @@ Files as listed in the repository.
 
 ## Citation
 
-If this code helps your research, please cite the associated manuscript (fill in your final details):
+If this code helps your research, please cite the associated manuscript:
 
 ```bibtex
 @article{ZHANG2026104718,
